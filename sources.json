@@ -580,6 +580,11 @@
       "keywords": ["database", "cloud service api"],
       "comment": "Missing readme"
     },
+    "bs-getenv": {
+      "category": "tool",
+      "platforms": ["browser", "node"],
+      "keywords": ["env", "environment variables", "config", "ppx"]
+    },
     "bs-glamor": {
       "category": "binding",
       "flags": ["neglected"],
